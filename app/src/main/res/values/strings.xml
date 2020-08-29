@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+    <string-array name="achievement_types_array">
+        <item>Work</item>
+        <item>Personal</item>
+    </string-array>
+</resources>
