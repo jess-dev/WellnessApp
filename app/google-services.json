@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922893905286",
+    "firebase_url": "https://wellnessapp-1130e.firebaseio.com",
+    "project_id": "wellnessapp-1130e",
+    "storage_bucket": "wellnessapp-1130e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922893905286:android:7da07a395c7ac4b25a5007",
+        "android_client_info": {
+          "package_name": "com.example.wellnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922893905286-m92tlldg3clb57829csesard9nu57tg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wellnessapp",
+            "certificate_hash": "31053f13690a36a536a8cf2e4db531fa2f251829"
+          }
+        },
+        {
+          "client_id": "922893905286-4cprcnbsem8aefbjm7pufvc1mpj4g2lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJe3rG2KYfK69zBs7G8lb8IunIOy2no0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922893905286-4cprcnbsem8aefbjm7pufvc1mpj4g2lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
