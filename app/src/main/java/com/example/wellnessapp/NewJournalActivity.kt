@@ -8,8 +8,10 @@ import android.text.TextUtils
 import android.view.View
 import android.widget.*
 import androidx.lifecycle.ViewModelProvider
+import com.google.firebase.auth.FirebaseAuth
 
 class NewJournalActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
+    private lateinit var auth: FirebaseAuth
     private lateinit var entryViewModel: JournalEntryViewModel
     private val newJournalEntryRequestCode = 1
 
